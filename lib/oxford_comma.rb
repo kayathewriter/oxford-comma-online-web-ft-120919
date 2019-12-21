@@ -1,4 +1,3 @@
 def oxford_comma(array)
-  ["a", "b", "c"].join
-  => "abc"
+  ["fiddleheads","okra","kohlrabi"].join
 end
